@@ -1,1 +1,2 @@
-export { default as deleteFromObjectByKey } from "./deleteFromObjectByKey";
+export { default as addAndAssignObject } from "./lib/addAndAssignObject";
+export { default as deleteFromObjectByKey } from "./lib/deleteFromObjectByKey";
