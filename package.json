@@ -1,0 +1,10 @@
+{
+  "name": "array-of-object-tools",
+  "version": "0.0.1",
+  "description": "great helpers for array of objects",
+  "main": "index.js",
+  "repository": "https://github.com/y7usuf/array-of-objects-tools",
+  "author": "y7usuf <me@yusufgoksu.com>",
+  "license": "MIT",
+  "private": false
+}
